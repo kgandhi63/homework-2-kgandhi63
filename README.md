@@ -105,5 +105,3 @@ Where:
 - Ensure your notebook is properly organized and formatted for submission.
 
 ---
-
-**Good Luck!**
